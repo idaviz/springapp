@@ -55,5 +55,4 @@ public class PriceIncreaseFormController {
     public ProductManager getProductManager() {
         return productManager;
     }
-
 }
